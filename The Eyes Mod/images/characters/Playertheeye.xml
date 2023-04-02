@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Playertheeye.png">
+<SubTexture name="Playertheeye idle0000" x="0" y="0" width="117" height="262" frameX="-105" frameY="-38" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0001" x="0" y="0" width="117" height="262" frameX="-105" frameY="-38" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0002" x="0" y="0" width="117" height="262" frameX="-105" frameY="-38" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0003" x="0" y="0" width="117" height="262" frameX="-105" frameY="-38" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0004" x="0" y="0" width="117" height="262" frameX="-105" frameY="-38" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0005" x="0" y="0" width="117" height="262" frameX="-105" frameY="-38" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0006" x="117" y="0" width="117" height="257" frameX="-105" frameY="-43" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0007" x="117" y="0" width="117" height="257" frameX="-105" frameY="-43" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0008" x="117" y="0" width="117" height="257" frameX="-105" frameY="-43" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0009" x="117" y="0" width="117" height="257" frameX="-105" frameY="-43" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0010" x="117" y="0" width="117" height="257" frameX="-105" frameY="-43" frameWidth="300" frameHeight="300" />
+<SubTexture name="Playertheeye idle0011" x="117" y="0" width="117" height="257" frameX="-105" frameY="-43" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

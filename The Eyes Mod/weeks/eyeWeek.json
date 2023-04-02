@@ -1,0 +1,41 @@
+{
+	"storyName": "he see you",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Eye",
+			"icon-bfPlayerSprite",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"RUN",
+			"icon-bfPlayerSprite",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "the eye"
+}

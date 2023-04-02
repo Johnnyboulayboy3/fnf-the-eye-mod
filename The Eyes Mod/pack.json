@@ -1,0 +1,7 @@
+{
+	"name": "The Eyes Mod",
+	"description": "he see you",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [0, 0, 0]
+}
